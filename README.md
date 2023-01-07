@@ -29,3 +29,6 @@
 ### Projects
 Currently I'm developing [opennebula-lab](https://github.com/ktp0li/opennebula-lab) (working title) - service for learning network engineers by automatically deployed and checked labs
 
+---
+### Badges
+<a href="https://www.credly.com/badges/db32ce99-57e1-466c-afc8-d747eded2960/public_url"><img src="pics/mta.png" width="100"></a> 
