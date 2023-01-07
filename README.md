@@ -11,6 +11,7 @@
 ### Skills 
 - Linux/Unix
 - Сisco IOS
+- Pre-CCNA Networking Skills
 - Python
 - Shell scripts
 - Git
