@@ -27,7 +27,7 @@
 
 ---
 ### Projects
-Currently I'm developing [opennebula-lab](https://github.com/ktp0li/opennebula-lab) (working title) - service for learning network engineers by automatically deployed and checked labs
+Currently I'm developing [opennebula-lab](https://github.com/ktp0li/opennebula-lab) (working title) - service for teaching network engineers by automatically deployed and checked labs
 
 ---
 ### Badges
