@@ -19,6 +19,7 @@
   * Docker
   * Anisble
   * Terraform
+  * Prometheus & Grafana
 <details>
 <summary>Additionally</summary>
 
