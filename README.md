@@ -26,6 +26,10 @@
 - drawing pictures with anime girls and capybaras (separately)
 </details>
 
+### I'm currently looking into
+- Elixir (hehe)
+- Kubernetes
+
 ---
 ### Projects
 Currently I'm developing [Crocum](https://github.com/ktp0li/crocum) - service for teaching network engineers by automatically deployed and checked labs
