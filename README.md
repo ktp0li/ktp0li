@@ -8,18 +8,19 @@
 </div>
 
 ## About me
-### Skills 
-- Linux/Unix
-- Сisco IOS
-- Pre-CCNA Networking Skills
-- Python
-- Shell scripts
-- Git
-- DevOps:
-  * Docker
-  * Anisble
-  * Terraform
-  * Prometheus & Grafana
+delighted with videotechnologies. mantain CDN with over four hundred servers. interested in embedded and functional programming. love automatisation things <3
+
+### Skills
+- linux system administration (almost four years of work experience)
+- linux network administration (dynamic routing with frr, provider uplinks with bird)
+- little work experience with cisco
+- nearly passed CCNA certification
+- scripts and small progs in go/bash/python
+- some DevOps tools and frameworks
+- alerting, monitoring, log aggregation and other stuff 
+- really into IaC (especially salt)
+- in-house Yandex solutions like [porto](https://github.com/yandex/porto) container daemon
+- this kind of uncategorised things SRE does
 <details>
 <summary>Additionally</summary>
 
@@ -27,12 +28,22 @@
 </details>
 
 ### I'm currently looking into
-- Elixir (hehe)
-- Kubernetes
+- [SHAD](https://shad.yandex.ru/)'s network course
+- mastering my go skills
 
 ---
 ### Projects
-Currently I'm developing [Crocum](https://github.com/ktp0li/crocum) - service for teaching network engineers by automatically deployed and checked labs
+epic-level work tasks:
+- i'm automating all interactions with ipmi on dedicated servers, such as auto-applying iptables configuration
+- i'm trying to develop a hiring platform for SRE interns
+
+work-related projects:
+- ??? - telegram bot for managing preconfigured cloud vms. i used it for yandex infrastructure exhibition piece on VideoTech and YaTalks conferences. trying go
+
+pet projects: 
+- [Crocum](https://github.com/ktp0li/crocum) - service for teaching network engineers through automatically provisioned and tested labs [ABANDONED]
+- [amogusfetch](https://github.com/ktp0li/amogusfetch) - like neofetch, but with amogus. yes. trying elixir
+
 
 ---
 ### Badges
